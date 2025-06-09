@@ -12,3 +12,7 @@ This is a test README.md file.
 2. git add
 3. git commit
 4. git push
+
+#### Pushing to this Repo using student account
+
+pushing...
